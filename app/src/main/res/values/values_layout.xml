@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_main_layout">20dp</dimen>
+    <dimen name="margin_bottom_view_top">15dp</dimen>
+    <dimen name="text_size_menu">23dp</dimen>
+</resources>
